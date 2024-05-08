@@ -1,3 +1,0 @@
-Sitemap: https://kars-workshop.github.io/2024//sitemap.xml
-
-User-agent: *
