@@ -14,38 +14,30 @@ thumb_force_logo: true
 
     <h1 class="image-title">
       Almace Scaffolding
-      <img src="{{ amsf_user_assets }}/svg/amsf.svg">
+      <img src="{{ amsf_user_assets }}/img/bari_home.png">
     </h1>
 
-    <h2 class="sub-title">A super-fast Jekyll framework fighting against the website obesity.</h2>
+    <h2 class="sub-title">co-located with the 18th ACM Conference on Recommender Systems</h2>
 
-    <small>a.k.a. <b>AMSF</b>&#x30FB;ver. <b class="amsf-version">2.0.24</b>&#x30FB;view it on <a href="https://github.com/sparanoid/almace-scaffolding">GitHub</a></small>
+    <small>Bari, Italy, 14–18 October 2024</small>
   </header>
 
   <div class="page-content">
-    <h2>Getting Started</h2>
-    {% for post in site.tags.getting-started %}
+
+<p>The purpose of the <b>Knowledge-aware and Conversational Recommender Systems (KaRS) Workshop</b> is to provide a meeting forum for stimulating and disseminating research in Knowledge-aware and Conversational Recommender Systems, where researchers can network and discuss their research results in an informal way.</p>
+
+<p>The <b>6th Knowledge-aware and Conversational Recommender Systems (KaRS) Workshop</b> focuses on all aspects related to the exploitation of <b>external and explicit knowledge sources</b> to feed and build a recommendation engine, and on the adoption of interactions based on the <b>conversational paradigm</b>. The aim is to go beyond the traditional accuracy goal and to start a new generation of algorithms and approaches with the help of the methodological diversity embodied in fields such as Machine Learning (ML), Human–Computer Interaction (HCI), Information Retrieval (IR) and Information Systems (IS). Consequently the focus lies on works improving the user experience and following goals such as user engagement and satisfaction or customer value.</p>
+
+<p>KaRS 2024 is the <b>6th edition</b> of the Knowledge-aware and Conversational Recommender Systems (KaRS) Workshop. It will take place in October 2024 as a full-day workshop during the <b>18th ACM Conference on Recommender Systems (RecSys 2024) in Bari, Italy</b>.</p>
+
+
+
+    <h2>Explore KaRS 2024</h2>
+    {% for post in site.data.header %}
+      {% if post.url != '/' %}
       {%- include themes/{{ site.amsf_theme }}/includes/page-item.html -%}
+      {% endif %}
     {% endfor %}
 
-    <h2>Customization</h2>
-    {% for post in site.tags.customization %}
-      {%- include themes/{{ site.amsf_theme }}/includes/page-item.html -%}
-    {% endfor %}
-
-    <h2>Theme Curtana</h2>
-    {% for post in site.tags.curtana %}
-      {%- include themes/{{ site.amsf_theme }}/includes/page-item.html -%}
-    {% endfor %}
-
-    <h2>Deployment</h2>
-    {% for post in site.tags.deployment %}
-      {%- include themes/{{ site.amsf_theme }}/includes/page-item.html -%}
-    {% endfor %}
-
-    <h2>Miscellaneous</h2>
-    {% for post in site.tags.miscellaneous %}
-      {%- include themes/{{ site.amsf_theme }}/includes/page-item.html -%}
-    {% endfor %}
   </div>
 </article>

@@ -1,8 +1,14 @@
-- title: __home__
+- title: KaRS2024
   url:   /
-
-- title: News
-  url:   /news/
 
 - title: About
   url:   /about/
+
+- title: Call for Papers
+  url: /cfp/
+
+- title: Program
+  url: /program/
+
+- title: Venue
+  url: https://recsys.acm.org/recsys24/location/  

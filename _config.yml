@@ -65,8 +65,7 @@ dev:            false
 
 # Site name
 #
-# Default:      Almace Scaffolding
-name:           Almace Scaffolding
+name:           Sixth Knowledge-Aware and Conversational Recommender Systems Workshop
 
 # Site short name
 #
@@ -81,8 +80,7 @@ name:           Almace Scaffolding
 # - name:       Sparanoid Group
 # - name_short: Sparanoid
 #
-# Default:      AMSF
-name_short:     AMSF
+name_short:     KaRS 2024
 
 # Site description
 #
@@ -129,7 +127,7 @@ feed:           /feed.xml
 # URLs for these fields
 #
 # Default:      https://sparanoid.com
-url:            https://sparanoid.com
+url:            https://kars-workshop.github.io/2024/
 
 # Media assets URL
 #
@@ -158,7 +156,7 @@ download:       https://d1bmx7s6749k4k.cloudfront.net
 #
 # Used by Safari mask-icon, Chrome Web App theme color
 colors:
-  theme:        "#ff00b4"
+  theme:        "#3E6D84"
   background:   "#fff"
 
 # Service Worker Precache
@@ -212,7 +210,7 @@ rss_excerpt:    false
 # Show or hide generator credits, require theme support
 #
 # Default:      true
-credits:        true
+credits:        false
 
 # Custom records in robots.txt
 #

@@ -27,6 +27,9 @@
 
 // EXAMPLE: amsf.github.io custom appearance
 :root {
+  --link-color-h: 200;
+  --link-color-s: 36%;
+  --link-color-l: 38%; 
   --code-color-h: calc(var(--link-color-h) + 10);
   --code-color-s: calc(var(--link-color-s) * .2 + 40%);
 }
