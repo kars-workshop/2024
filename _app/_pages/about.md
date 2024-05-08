@@ -28,7 +28,7 @@ Since 2018, the purpose of the **Knowledge-aware and Conversational Recommender 
 
 <div class="team-summary team-summary-large">
           <div class="team-image">
-              <img alt="Vito Walter Anelli" class="size-small" src="/assets/img/anelli.jpg">
+              <img alt="Vito Walter Anelli" class="size-small" src="{{ amsf_user_assets }}/img/anelli.jpg">
           </div>
           <div class="team-meta">
               <h1 class="team-name"><a target="_blank" href="http://sisinflab.poliba.it/anelli">Vito Walter Anelli</a></h1>              
@@ -39,7 +39,7 @@ Since 2018, the purpose of the **Knowledge-aware and Conversational Recommender 
 
 <div class="team-summary team-summary-large">
           <div class="team-image">
-              <img alt="Antonio Ferrara" class="size-small" src="/assets/img/ferrara-2.jpg">
+              <img alt="Antonio Ferrara" class="size-small" src="{{ amsf_user_assets }}/img/ferrara-2.jpg">
           </div>
           <div class="team-meta">
               <h1 class="team-name"><a target="_blank" href="http://sisinflab.poliba.it/ferrara">Antonio Ferrara</a></h1>              
@@ -49,7 +49,7 @@ Since 2018, the purpose of the **Knowledge-aware and Conversational Recommender 
 
 <div class="team-summary team-summary-large">
           <div class="team-image">
-              <img alt="Cataldo Musto" class="size-small" src="/assets/img/musto.jpg">
+              <img alt="Cataldo Musto" class="size-small" src="{{ amsf_user_assets }}/img/musto.jpg">
           </div>
           <div class="team-meta">
               <h1 class="team-name"><a target="_blank" href="http://www.di.uniba.it/~swap/index.php?n=Membri.CataldoMusto">Cataldo Musto</a></h1>              
@@ -59,7 +59,7 @@ Since 2018, the purpose of the **Knowledge-aware and Conversational Recommender 
 
 <div class="team-summary team-summary-large">
           <div class="team-image">
-              <img alt="Fedelucio Narducci" class="size-small" src="/assets/img/narducci.jpg">
+              <img alt="Fedelucio Narducci" class="size-small" src="{{ amsf_user_assets }}/img/narducci.jpg">
           </div>
           <div class="team-meta">
               <h1 class="team-name"><a target="_blank" href="http://sisinflab.poliba.it/narducci">Fedelucio Narducci</a></h1>              
@@ -69,7 +69,7 @@ Since 2018, the purpose of the **Knowledge-aware and Conversational Recommender 
 
 <div class="team-summary team-summary-large">
           <div class="team-image">
-              <img alt="Azzurra Ragone" class="size-small" src="/assets/img/ragone.jpeg">
+              <img alt="Azzurra Ragone" class="size-small" src="{{ amsf_user_assets }}/img/ragone.jpeg">
           </div>
           <div class="team-meta">
               <h1 class="team-name"><a target="_blank" href="https://it.linkedin.com/in/azzurraragone">Azzurra Ragone</a></h1>              
@@ -79,7 +79,7 @@ Since 2018, the purpose of the **Knowledge-aware and Conversational Recommender 
 
 <div class="team-summary team-summary-large">
           <div class="team-image">
-              <img alt="Markus Zanker" class="size-small" src="/assets/img/zanker.jpeg">
+              <img alt="Markus Zanker" class="size-small" src="{{ amsf_user_assets }}/img/zanker.jpeg">
           </div>
           <div class="team-meta">
               <h1 class="team-name"><a target="_blank" href="https://www.unibz.it/en/faculties/computer-science/academic-staff/person/3466-markus-zanker">Markus Zanker</a></h1>              
@@ -133,7 +133,7 @@ TBD
 
 <div class="team-summary team-summary-large">
           <div class="team-image">
-              <img alt="Vito Walter Anelli" class="size-small" src="/assets/img/anelli.jpg">
+              <img alt="Vito Walter Anelli" class="size-small" src="{{ amsf_user_assets }}/img/anelli.jpg">
           </div>
           <div class="team-meta">
               <h1 class="team-name"><a target="_blank" href="http://sisinflab.poliba.it/anelli">Vito Walter Anelli</a></h1>              
@@ -143,7 +143,7 @@ TBD
 
 <div class="team-summary team-summary-large">
           <div class="team-image">
-              <img alt="Pierpaolo Basile" class="size-small" src="/assets/img/basile.png">
+              <img alt="Pierpaolo Basile" class="size-small" src="{{ amsf_user_assets }}/img/basile.png">
           </div>
           <div class="team-meta">
               <h1 class="team-name"><a target="_blank" href="http://www.di.uniba.it/~swap/index.php?n=Membri.Basile">Pierpaolo Basile</a></h1>              
@@ -153,7 +153,7 @@ TBD
 
 <div class="team-summary team-summary-large">
           <div class="team-image">
-              <img alt="Tommaso Di Noia" class="size-small" src="/assets/img/dinoia.png">
+              <img alt="Tommaso Di Noia" class="size-small" src="{{ amsf_user_assets }}/img/dinoia.png">
           </div>
           <div class="team-meta">
               <h1 class="team-name"><a target="_blank" href="http://sisinflab.poliba.it/dinoia">Tommaso Di Noia</a></h1>              
@@ -163,7 +163,7 @@ TBD
 
 <div class="team-summary team-summary-large">
           <div class="team-image">
-              <img alt="Francesco Maria Donini" class="size-small" src="/assets/img/donini.png">
+              <img alt="Francesco Maria Donini" class="size-small" src="{{ amsf_user_assets }}/img/donini.png">
           </div>
           <div class="team-meta">
               <h1 class="team-name"><a target="_blank" href="http://unitus-public.gomp.it/Docenti/Render.aspx?UID=e02147b4-9a55-47df-a25e-be3e9bb8d269&lingua=en">Francesco Maria Donini</a></h1>              
@@ -173,7 +173,7 @@ TBD
 
 <div class="team-summary team-summary-large">
           <div class="team-image">
-              <img alt="Antonio Ferrara" class="size-small" src="/assets/img/ferrara-2.jpg">
+              <img alt="Antonio Ferrara" class="size-small" src="{{ amsf_user_assets }}/img/ferrara-2.jpg">
           </div>
           <div class="team-meta">
               <h1 class="team-name"><a target="_blank" href="http://sisinflab.poliba.it/ferrara">Antonio Ferrara</a></h1>              
@@ -183,7 +183,7 @@ TBD
 
 <div class="team-summary team-summary-large">
           <div class="team-image">
-              <img alt="Cataldo Musto" class="size-small" src="/assets/img/musto.jpg">
+              <img alt="Cataldo Musto" class="size-small" src="{{ amsf_user_assets }}/img/musto.jpg">
           </div>
           <div class="team-meta">
               <h1 class="team-name"><a target="_blank" href="http://www.di.uniba.it/~swap/index.php?n=Membri.CataldoMusto">Cataldo Musto</a></h1>              
@@ -193,7 +193,7 @@ TBD
 
 <div class="team-summary team-summary-large">
           <div class="team-image">
-              <img alt="Fedelucio Narducci" class="size-small" src="/assets/img/narducci.jpg">
+              <img alt="Fedelucio Narducci" class="size-small" src="{{ amsf_user_assets }}/img/narducci.jpg">
           </div>
           <div class="team-meta">
               <h1 class="team-name"><a target="_blank" href="http://sisinflab.poliba.it/narducci">Fedelucio Narducci</a></h1>              
@@ -203,7 +203,7 @@ TBD
 
 <div class="team-summary team-summary-large">
           <div class="team-image">
-              <img alt="Azzurra Ragone" class="size-small" src="/assets/img/ragone.jpeg">
+              <img alt="Azzurra Ragone" class="size-small" src="{{ amsf_user_assets }}/img/ragone.jpeg">
           </div>
           <div class="team-meta">
               <h1 class="team-name"><a target="_blank" href="https://it.linkedin.com/in/azzurraragone">Azzurra Ragone</a></h1>              
@@ -213,7 +213,7 @@ TBD
 
 <div class="team-summary team-summary-large">
           <div class="team-image">
-              <img alt="Markus Zanker" class="size-small" src="/assets/img/zanker.jpeg">
+              <img alt="Markus Zanker" class="size-small" src="{{ amsf_user_assets }}/img/zanker.jpeg">
           </div>
           <div class="team-meta">
               <h1 class="team-name"><a target="_blank" href="https://www.unibz.it/en/faculties/computer-science/academic-staff/person/3466-markus-zanker">Markus Zanker</a></h1>              
