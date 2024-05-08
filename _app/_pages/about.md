@@ -5,6 +5,8 @@ permalink: /about/
 desc: Since 2018, the purpose of KaRS is to provide a meeting forum for stimulating and disseminating research in Knowledge-aware and Conversational Recommender Systems. Find out about our workshop, the previous editions, and the organization.
 ---
 
+{%- include amsf/core -%}
+
 Since 2018, the purpose of the **Knowledge-aware and Conversational Recommender Systems (KaRS) Workshop** is to provide a meeting forum for stimulating and disseminating research in Knowledge-aware and Conversational Recommender Systems, where researchers can network and discuss their research results in an informal way.
 
 - TOC
