@@ -88,7 +88,7 @@ Papers must be submitted through [<u>EasyChair</u>](https://easychair.org/confer
 
 # Important Dates
 
-* **Paper submissions deadline**: August 30th, 2024
+* **Paper submissions deadline**: September 6th, 2024 (EXTENDED!)
 * **Paper acceptance notification**: September 16th, 2024
 * **Camera-ready deadline**: September 30th, 2024
 * **Workshop day**: October 14th-18th, 2024
