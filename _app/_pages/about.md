@@ -91,7 +91,36 @@ Since 2018, the purpose of the **Knowledge-aware and Conversational Recommender 
 
 ## Program Committee
 
-TBD
+- Nourah Alrossais
+- Vito Walter Anelli
+- Marco Angelini
+- Pierpaolo Basile
+- Giovanni Maria Biancofiore
+- Ludovico Boratto
+- Salvatore Bufi
+- Tommaso Carraro
+- Giandomenico Cornacchia
+- Alessandro De Bellis
+- Marco de Gemmis
+- Dario Di Palma
+- Davide Di Ruscio
+- Francesco M. Donini
+- Antonio Ferrara
+- Dietmar Jannach
+- Daniele Malitesta
+- Alberto Carlo Maria Mancino
+- Mirko Marras
+- Giacomo Medda
+- Cataldo Musto
+- Franco Maria Nardini
+- Fedelucio Narducci
+- Vincenzo Paparella
+- Aleksandr Petrov
+- Claudio Pomo
+- Azzurra Ragone
+- Paolo Sorino
+- Marko Tkalcic
+- Markus Zanker
 
 ## Past Editions
 
