@@ -1,0 +1,74 @@
+---
+layout: page
+title: Program
+permalink: /program/
+desc: Explore our program featuring three interactive sessions and an insightful keynote, showcasing innovative research at the cutting-edge intersection of knowledge representation and conversational AI for advancing the future of recommender systems.
+thumb_force_logo: true
+---
+
+<style>
+    .team-summary { display: flex; flex-wrap: wrap; flex-direction: row; margin-bottom:1em; }
+    .team-summary .team-image { height: 60px; width: 60px; margin-right: 10px; border-radius: 50%; }
+    .team-summary .team-image img { width: 60px; }
+    .team-summary .team-meta { flex: 1; }
+    .team-summary .team-meta h1 { margin: 0; font-size:1em; }
+    .team-summary .team-meta h2 { margin: 0; margin-bottom: 0.8em }
+    .team-summary .team-content { margin-top: 20px; flex: 1 0 100%; }
+    .team-summary .paper {
+        background: #D8E1E7;
+        border-radius: 8px; display: flex; justify-content: space-between; padding: 10px 0.5em 10px 0.5em; margin: 5px;
+
+    }
+
+    .team-summary .paper:hover {
+        background: #c9d9e4;
+    }
+
+    span.talk-type { display: flex; padding: 3px 6px; justify-content: flex-end; color: #ffffff; font-size: 10px; align-self: flex-end; text-transform: uppercase; background: #496C82; border-radius: 4px; letter-spacing: 1px; margin-left: 40px; }
+
+    span.talk-duration { display: flex; padding: 3px 6px; justify-content: flex-end; background-color: #2f2f41; color: #ffffff; font-size: 10px; align-self: flex-end; border-radius: 4px; letter-spacing: 1px; margin-left: 40px; margin-top: 5px; }
+
+    div.talk-title { color: #2f2f41; display: flex; font-weight: 700; font-size: 0.7em; }
+
+    div.talk-authors { color: #2f2f41; text-transform: uppercase; font-size: 0.6em; font-weight: 500; margin-top: 0.2em }
+
+
+    .team-summary-large { background-color: #f7f7f7; padding: 30px; border-radius: 3px; }
+    .team-summary-large .team-image { height: 90px; width: 90px; margin-left: 10px; margin-right: 10px; }
+    .team-summary-large .team-image img { width: 90px; border-radius: 5%; }
+</style>
+
+<!-- Article wrapper, limit width -->
+<article>
+
+    <!-- Post title -->
+    <div class="page-content">
+
+        {% for day in site.data.program %}
+        {% for block in day.blocks %}
+        <div class="team-summary team-summary-large store">
+            <div class="team-meta">
+                <h2 style="margin-bottom: 0; text-transform: uppercase; font-size: 0.6em">{{ block.time }}</h2>
+                <h1 class="team-name">{{ block.name }}</h1>
+                {% if block.type == 'session' %}<h2>Session Chair <b>{{ block.chair }}</b></h2>{% endif %}
+                {% if block.type == 'talk' %}<h2><b>{{ block.speaker }}</b></h2>{% endif %}
+                {% if block.type == 'talk' %}<p><small>{{ block.summary }}</small></p>{% endif %}
+                {% for talk in block.talks %}
+                <div class="paper">
+                <div>
+                    <div class="talk-title">{{ talk.title }}</div>
+                    <div class="talk-authors">{{ talk.authors }}</div>
+                </div>
+                <div style="display:flex;flex-direction:column">
+                    <span class="talk-type">{{ talk.type }}</span>
+                    <span class="talk-duration font-weight-normal text-left"><i class="fas fa-stopwatch"></i>{{talk.duration}}min</span>
+                </div>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+        {% endfor %}
+        {% endfor %}
+
+    </div>
+</article>

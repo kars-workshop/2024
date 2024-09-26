@@ -1,0 +1,63 @@
+- day: 1
+  blocks:
+    - name: Opening
+      type: break
+      time: 9:00 AM
+    - name: Content-based and Knowledge-aware RSs
+      chair: TBD
+      type: session
+      time: 9:15 AM
+      talks:
+        - title: The Effect of Semantic Knowledge Graph Richness on Embedding Based Recommender Systems
+          authors: Daan Di Scala, Xu Wang and Christopher Brewster
+          type: LONG
+          duration: 15
+        - title: Empowering shilling attacks with Katz and Exclusivity-based relatedness
+          authors: Felice Antonio Merra, Vito Walter Anelli, Yashar Deldjoo, Tommaso Di Noia and Eugenio Di Sciascio
+          type: LONG
+          duration: 15
+        - title: Using Semantic-based Adaptive Relevance Prediction to Enhance Entity Recommendation for Personal Knowledge Assistance
+          authors: Mahta Bakhshizadeh, Heiko Maus and Andreas Dengel
+          type: LONG
+          duration: 15
+    - name: LLMs for Recommendation
+      type: session
+      time: 10:00 AM
+      chair: TBD
+      talks:
+        - title: Can We Integrate Items Into Models? Knowledge Editing To Align LLMs With Product Catalogs
+          authors: Ahmadou Wagne and Julia Neidhardt
+          type: SHORT
+          duration: 15
+        - title: Can LLMs reliably reason about user preferences for Recommendation?
+          authors: Flavian Vasile
+          type: POSITION
+          duration: 15
+    - name: Coffee Break
+      type: break
+      time: 10:30 AM
+    - name: "Keynote"
+      type: talk
+      time: 11:00 AM
+      speaker:
+      summary: More details soon...
+    - name: Conversational RSs
+      type: session
+      time: 11:40 AM
+      chair: TBD
+      talks:
+        - title: Adapting Sequential Recommender Models to Content Recommendation in Chat Data using Non-Item Page-Models
+          authors: Albin Zehe, Elisabeth Fischer, Jonas Kaiser, Toni Wagner and Andreas Hotho
+          type: LONG
+          duration: 15
+        - title: Conversational Recommender Systems based on Extracting Implicit Preferences with Large Language Models
+          authors: Woo-Seok Kim, Wooseung Kang, Hye-Jin Jeong, Suwon Lee, Chie Hoon Song and Sang-Min Choi
+          type: SHORT
+          duration: 15
+        - title: A Social Robot as a Meal-Time Companion for Elderly People
+          authors: Berardina De Carolis, Davide Di Pierro, Stefano Ferilli, Davide Lofrese, Corrado Loglisci and Giuseppe Palestra
+          type: SHORT
+          duration: 15
+    - name: Closing
+      type: break
+      time: 12:25 PM
