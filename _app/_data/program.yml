@@ -36,11 +36,11 @@
     - name: Coffee Break
       type: break
       time: 10:30 AM
-    - name: "Keynote"
+    - name: "Keynote: The Dagstuhl CAFE Framework for the Evaluation of Conversational Agents"
       type: talk
       time: 11:00 AM
-      speaker:
-      summary: More details soon...
+      speaker: Nicola Ferro
+      summary: "<p>Conversational Agents (CA) as frontends to Information Retrieval (IR) and Recommender Systems (RS) become more popular in everyday life, with a wider range of users and usages. The latest developments in Large Language Models (LLMs) will have tremendous consequences, especially for the workplace and education. In this talk, the main outcomes of the <a href=\"https://www.dagstuhl.de/24352\" target=\"_blank\">Dagstuhl Perspectives Workshop 24352 \"Conversational Agents: A Framework for Evaluation (CAFE)\"</a> will be reported. The workshop focused on the evaluation of  conversational systems, as appropriate methods are still missing. The quality of these systems is limited in terms of personalization, veracity and correctness, bias, transparency, trustworthiness, and understandability. Thus, evaluation methods must address these shortcomings.</p><p><small><a href=\"https://www.dei.unipd.it/~ferro/\" target=\"_blank\">Nicola Ferro</a> is Full Professor in Computer Science at the Department of Information Engineering at the University of Padua, Italy. His main research interests are information retrieval, data management and representation, and their evaluation. He chairs the Steering Committee of CLEF, the European evaluation initiative on multimodal and multilingual information access systems, and the Steering Committee of ESSIR, the European Summer School on Information Retrieval. He is Senior PC Member in top-tier conferences, like ECIR, ACM SIGIR, ACM CIKM, WSDM. He is General Co-Chair of SIGIR 2025. He was General Chair of ESSIR 2016 and Associate Editor for ACM TOIS. He was inducted into the SIGIR Academy in 2023.</small></p>"
     - name: Conversational RSs
       type: session
       time: 11:40 AM
